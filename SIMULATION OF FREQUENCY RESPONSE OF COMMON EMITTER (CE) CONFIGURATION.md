@@ -1,4 +1,4 @@
-<img width="908" height="576" alt="image" src="https://github.com/user-attachments/assets/3cb8a173-bd7a-4d70-8c51-95f9cd7c5082" /># SIMULATION OF FREQUENCY RESPONSE OF COMMON EMITTER (CE) CONFIGURATION
+# SIMULATION OF FREQUENCY RESPONSE OF COMMON EMITTER (CE) CONFIGURATION
 
 ## AIM:
 To design and simulate the frequency response of a common emitter configuration circuit using LT-Spice.
