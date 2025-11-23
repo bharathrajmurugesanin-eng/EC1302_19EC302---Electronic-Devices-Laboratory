@@ -1,4 +1,4 @@
-# SIMULATION OF FREQUENCY RESPONSE OF COMMON EMITTER (CE) CONFIGURATION
+<img width="908" height="576" alt="image" src="https://github.com/user-attachments/assets/3cb8a173-bd7a-4d70-8c51-95f9cd7c5082" /># SIMULATION OF FREQUENCY RESPONSE OF COMMON EMITTER (CE) CONFIGURATION
 
 ## AIM:
 To design and simulate the frequency response of a common emitter configuration circuit using LT-Spice.
@@ -23,11 +23,9 @@ LT-Spice
 
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM AND OUTPUT;
 
-
-
-## OUTPUT GRAPH:
+<img width="908" height="576" alt="image" src="https://github.com/user-attachments/assets/0fba0eb9-9470-4679-a275-800b113f3821" />
 
 
 ## RESULT:
