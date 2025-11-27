@@ -12,45 +12,39 @@
 
 
 ## THEORY
-![WhatsApp Image 2025-11-22 at 21 02 20_92261111](https://github.com/user-attachments/assets/fa67bf3b-67a5-4bb6-8ca5-4fa768a0368c)
-![WhatsApp Image 2025-11-22 at 21 02 19_ea281067](https://github.com/user-attachments/assets/40e34873-8738-4f64-a9ce-ff44ced96ccd).
 
 ## PN JUNCTION DIODE
-A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
+![WhatsApp Image 2025-11-27 at 18 29 17_74b00126](https://github.com/user-attachments/assets/d1c9ba48-5374-4273-a680-fa9dcc9bd5b0)
+
 
 ## CIRCUIT DIAGRAM: 
-<img width="576" height="536" alt="image" src="https://github.com/user-attachments/assets/8bdf4346-5926-42c9-85fd-8c22928fd618" />
+![WhatsApp Image 2025-11-27 at 18 12 03_499493e2](https://github.com/user-attachments/assets/54607234-4cf5-4ab1-9132-514f7f6843b4)
+
+
 
 ## FORWARD BIAS:
+![WhatsApp Image 2025-11-27 at 18 11 37_361703d3](https://github.com/user-attachments/assets/6f56aeaf-a01f-49de-a30c-3eaa8f8e56e4)
 
-![WhatsApp Image 2025-11-22 at 21 02 17_5b623cc7](https://github.com/user-attachments/assets/8114b50e-93b7-4f0f-b653-30a310aed7bd)
+
 
 ## REVERSE BIAS:
-![WhatsApp Image 2025-11-22 at 21 02 09_ca7c724e](https://github.com/user-attachments/assets/96930c4d-d59e-4f46-84c5-b71d5cfffdcd)
+![WhatsApp Image 2025-11-27 at 18 11 40_49f8e80c](https://github.com/user-attachments/assets/a1a08376-be44-46b9-b798-700520ff059d)
+
+
 
 
 ## MODEL GRAPH:
-<img width="576" height="465" alt="image" src="https://github.com/user-attachments/assets/7970cc5e-9ded-42e6-8f82-a2277684d0c3" />
+![WhatsApp Image 2025-11-27 at 18 10 46_81bd3902](https://github.com/user-attachments/assets/e9b1bc77-172c-459c-85eb-98d973b641fe)
 
 
-## PROCEDURE:  
-## FORWARD BIAS 
-1. The connections are made as per the circuit diagram.
-2. The power supply Current Overload is kept at maximum and then switched on.
-3. Changing the Volt knob of RPS, increase the applied voltage from 0 V to  0.1 V in voltmeter and tabulate under V<sub>f</sub>.
-4. Note down the ammeter reading in Milliamp range as I<sub>f</sub>.
-5. Vary the RPS, and change the voltmeter reading in steps of 0.1 V and tabulate the corresponding current reading till 1 V
-6. A graph is drawn between V<sub>f</sub> and I<sub>f</sub>.
-8. Calculate the slope of linear portion of graph to obtain forward resistance. 
 
-## REVERSE BIAS 
-1. The connections are made as per the circuit diagram.
-2. The power supply is switched on and supply voltage is gradually increased and observe the point where current starts increasing rapidly, note down the voltage as "Breakdown voltage" and the corresponding Current reading.
-3. Now to draw reverse bias characteristics, change ammeter to lower range, less than " breakdown current"
-4. Vary the voltage in steps of 1 V in voltmeter (V<sub>r</sub>) and note down the corresponding current in ammeter (I<sub>r</sub>).
-5. Do not vary the voltage above the breakdown voltage.
-6. Graph is drawn between V<sub>r</sub> and I<sub>r</sub>
-7. The reverse conduction region is extended to meet x-axis at a point. The value at this point is V<sub>BO. 
+## PROCEDURE: 
+![WhatsApp Image 2025-11-27 at 18 11 37_1c491cd6](https://github.com/user-attachments/assets/1184b0aa-925a-4224-a03f-c5106d231a3f)
+
+![WhatsApp Image 2025-11-27 at 18 11 37_f264fb62](https://github.com/user-attachments/assets/b89969a7-e7fb-442d-ace6-8109803146ed)
+
+
+![WhatsApp Image 2025-11-27 at 18 11 40_a1970270](https://github.com/user-attachments/assets/9e4c9917-53da-4b09-928d-c13fe0d87fe4)
 
 ## FORMULA USED
 
@@ -59,14 +53,15 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
-<img width="576" height="944" alt="image" src="https://github.com/user-attachments/assets/0b4c8f7b-ad91-47c9-b6cd-589ba2776476" />
+![WhatsApp Image 2025-11-27 at 18 11 39_709d4186](https://github.com/user-attachments/assets/89704673-4d68-446a-8b0c-f24b409d728c)
 
 ## CALCULATIONS:
-![WhatsApp Image 2025-11-23 at 23 33 16_dfe90378](https://github.com/user-attachments/assets/ddd88a90-c751-4bd8-a8b9-6f749bfc3a7c)
+![WhatsApp Image 2025-11-27 at 18 11 40_8fe9d5d8](https://github.com/user-attachments/assets/dcb64fa6-052f-41be-894e-8ad7c1e1d7ad)
 
 
 ## GRAPH:
-<img width="576" height="850" alt="image" src="https://github.com/user-attachments/assets/663c3a4b-1c0a-48ba-9c2e-b4d38a7ec23e" />
+![WhatsApp Image 2025-11-27 at 18 17 04_332faa01](https://github.com/user-attachments/assets/5e8062de-18fe-4a36-8689-9e0e46b8a0bb)
+
 
 
  ## RESULTS:
